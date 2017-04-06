@@ -1,0 +1,1390 @@
+id,PROGRAM_GENRE
+1,Drama
+2,Documentary
+3,Sports event_Hockey
+4,Special_Documentary
+5,Sports non-event_Football
+6,
+7,Suspense_Drama
+8,Religious
+9,Music
+10,Reality
+11,Children_Adventure_Animated
+12,Sports event_Football_Playoff sports
+13,Reality_Documentary
+14,Musical comedy_Fantasy
+15,Shopping
+16,Sitcom_Animated
+17, All the Worst 2014: AC360_Special_News_History
+18,Romance_Suspense
+19,Reality_Documentary_Adventure
+20,Consumer
+21,Special_Parade
+22,Sitcom
+23,News
+24,Newsmagazine
+25,Game show
+26,Crime drama_Action_Suspense_Mystery
+27,Sports non-event_News_Sports talk
+28,Sports talk
+29,Action
+30,Reality_Cooking
+31,Sports non-event_Sports talk_Football
+32,Sports non-event
+33,Sports event_Basketball
+34,Documentary_Sports non-event_Baseball
+35,Reality_Auto_Auction
+36,Sports non-event_Outdoors
+37,Documentary_Aviation
+38,War_Historical drama
+39,Action_Adventure_Romance
+40,Biography
+41,Travel_Cooking
+42,Reality_House/garden
+43,Documentary_Paranormal
+44,Sports non-event_Yacht racing
+45,Sports event_Golf
+46,Crime
+47,Reality_Outdoors_Adventure
+48,Crime drama_Suspense
+49,Sports event_Billiards
+50,Special_Sports non-event_Baseball
+51,Crime drama
+52,Historical drama_Adventure
+53,Biography_Drama
+54,Science_Documentary
+55,Special_Musical
+56,Sports event_Tennis
+57,Mystery
+58,Reality_Paranormal
+59,Travel
+60,House/garden
+61,Fantasy
+62,Outdoors_Hunting
+63,Sports non-event_Hunting
+64,Action_Adventure
+65,Medical_News
+66,Religious_Newsmagazine
+67,Talk_News_Public affairs_Politics
+68,Talk_News
+69,Talk_News_Politics
+70,Romance
+71,Weather
+72,Talk
+73,Talk_News_Bus./financial
+74,Special_Documentary_Science
+75,Self improvement_Religious
+76,Talk_Interview_Reality_Entertainment
+77,Talk_Interview
+78,Suspense_Action
+79,Drama_Romance
+80,Community
+81,War
+82,Reality_Entertainment_Cooking
+83,Drama_Politics
+84,Children_Sitcom_Comedy
+85,Children_Special_Sitcom
+86,Children_Sitcom
+87,Children_Fantasy_Animated
+88,Talk_Sports non-event_Golf
+89,Reality_Documentary_Crime_Law
+90,Sports non-event_Auto racing
+91,Suspense_Crime drama_Mystery
+92,Educational_Religious
+93,Action_Comedy_Science fiction
+94,Suspense
+95,Reality_Crime_Law
+96,Romance-comedy
+97,Newsmagazine_Entertainment
+98,Comedy-drama
+99,Reality_Romance
+100,News_Talk_Public affairs_Politics
+101,Comedy_Action
+102,Drama_Adventure
+103,Reality_Animals_Nature
+104,Documentary_Entertainment
+105,Science fiction
+106,Special_Home improvement
+107,Children_Science fiction_Action_Adventure_Animated
+108,Talk_Entertainment
+109,Reality_Animals
+110,Documentary_Comedy-drama
+111,Sports non-event_Sports talk_Interview
+112,Special_Educational
+113,Musical
+114, True & Freaky_Animals_Nature
+115,Sports non-event_Fishing
+116,Reality_Documentary_Crime
+117,How-to_House/garden_Home improvement
+118,Special_Religious
+119,Crime_Law
+120,Outdoors_Fishing
+121,Sports non-event_Golf
+122,Self improvement
+123,Reality_Crime
+124,Reality_Auto_How-to
+125,Travel_History
+126,Educational
+127,Children_Educational
+128,Documentary_History
+129,Documentary_Crime_Mystery
+130,Reality_Documentary_Adventure_Outdoors
+131,War_Drama
+132,Action_Adventure_Science fiction_Fantasy
+133, Inc._Documentary
+134,Children_Comedy_Adventure_Animated
+135,Spanish_Science fiction_Action_Adventure
+136,Sports non-event_Basketball
+137,Reality_Comedy
+138,Special
+139,Documentary_Crime
+140,Drama_Religious
+141,Collectibles_Art
+142,News_Politics_Interview
+143,Reality_Auction_Collectibles
+144,Sports non-event_Outdoors_Hunting
+145,Horror_Suspense
+146,Action_Fantasy
+147,Educational_How-to
+148,Comedy
+149,Reality_Entertainment
+150,How-to_Cooking
+151,Cooking
+152,Cooking_Entertainment
+153,Crime drama_Mystery
+154,History
+155,Documentary_Mystery_Crime
+156,Horror
+157,Suspense_Romance_Science fiction
+158,Science fiction_Action_Suspense
+159,Talk_Politics
+160,Entertainment
+161,Action_Adventure_Fantasy
+162,Sports talk_Football
+163,Crime drama_Action_Adventure_Mystery
+164,Spanish_Comedy
+165,Sports non-event_Sports talk
+166,Special_Shopping
+167,Science fiction_Action_Adventure_Fantasy
+168, Hidden Dragon_Adventure_Action_Martial arts
+169,Documentary_Biography
+170,Sports non-event_Snowmobile
+171,Reality_Travel
+172,Public affairs
+173,Sports non-event_Anthology
+174,Musical_Drama_Romance
+175,Comedy_Horror
+176, The Osmonds_ Jim Croce_Consumer
+177,Sports non-event_Outdoors_Fishing_Hunting
+178,Sports non-event_Hockey
+179,Western
+180,Adventure
+181,Comedy_Standup
+182,Drama_Suspense
+183,Reality_Auto racing
+184,Paranormal_Anime
+185,Animals_Educational
+186,Special_Shopping_Consumer
+187,Fantasy_Adventure_Comedy
+188,Suspense_Crime drama
+189,Romance_Drama
+190,Horror_Suspense_Fantasy
+191,Reality_Travel_House/garden
+192,Fantasy_Adventure_Action
+193,Adventure_Comedy
+194,Drama_Law
+195,Outdoors
+196,Mystery_Drama_Suspense
+197,Horror_Science fiction
+198,Science fiction_Adventure_Action
+199,Reality_Musical
+200,Sports event_Rodeo
+201,Science fiction_Action_Adventure
+202,Action_Horror_Suspense
+203,Sports non-event_News
+204,Sports non-event_Sports talk_News
+205,Sports non-event_Mixed martial arts
+206,Reality_Nature_Animals
+207,Reality_Documentary_Adventure_Nature
+208,Reality_Adventure
+209,Docudrama_Biography
+210,Animals_Crime
+211,Talk_Newsmagazine
+212,Spanish_Adventure_Action
+213,Special_History_Documentary
+214,Reality_Documentary_Hunting
+215,Talk_Interview_Politics_News_Public affairs
+216,Drama_War
+217,Special_Bus./financial_Talk
+218,Drama_Biography
+219,Special_Sports talk_Football
+220,Reality_Home improvement_House/garden
+221,Action_Suspense
+222,History_Religious
+223,How-to
+224,Comedy_Fantasy
+225,Children_Comedy_Animated
+226,Children_Educational_Animated
+227,Children_Educational_Art_Music_Animated
+228,Children_Animals
+229,Suspense_Comedy
+230,News_Public affairs_Talk
+231,Sports event_Gymnastics
+232,Action_Adventure_Martial arts
+233,Sports event_Football
+234,Comedy_Science fiction
+235,News_Community
+236,Children_Adventure_Fantasy_Animated
+237,000 plus Commercial_Community
+238,Health
+239,Special_Music_Awards_Event
+240,Sports talk_Hockey
+241,Biography_Historical drama
+242,Special_History
+243,Special_Music
+244,Spanish_Drama
+245,Children_Animated
+246,Travel_Educational
+247,News_Public affairs
+248,Special_Animals_Outdoors
+249,Soap_Drama
+250,Spanish_Science fiction
+251,Miniseries_Historical drama_Drama_Adventure
+252,Documentary_Weather
+253, Run Deep_War
+254,Entertainment_Comedy
+255,Spanish_Children_Comedy_Adventure_Animated
+256,Spanish_Crime drama_Suspense
+257,Comedy-drama_Suspense
+258,Science
+259,Special_Science
+260,Crime_Biography_Science
+261,Documentary_Religious
+262,Bus./financial
+263, Glen Campbell_Consumer
+264,Crime drama_Comedy
+265, She Wrote_Drama_Mystery
+266,Bus./financial_Public affairs_Self improvement
+267,Adventure_Action_Fantasy_Science fiction
+268,Spanish_Romance-comedy
+269,Travel_How-to
+270,Horror_Comedy
+271,Crime drama_Action
+272,Children_Action_Animated
+273,Crime drama_Mystery_Suspense
+274,Science fiction_Suspense
+275,Crime_Mystery_Drama
+276,Sports non-event_Soccer
+277,Children_Adventure_Fantasy_Entertainment_Animated
+278,Reality_Music
+279,How-to_Auto_Consumer
+280,Politics_Public affairs
+281,Sports event_Bowling
+282,Musical comedy
+283,Entertainment_Reality
+284,Community_News
+285,Interview_Public affairs
+286,Special_Sports non-event
+287,Home improvement_House/garden_How-to
+288,Spanish_Suspense_Action
+289,Adventure_Action
+290,Sports event_Card games_Poker
+291,Drama_Suspense_Fantasy
+292,Children_Educational_Entertainment
+293,Cooking_How-to
+294,Special_Music_Entertainment
+295,Equestrian
+296,Talk_Public affairs
+297,Talk_News_Politics_Interview_Public affairs
+298,Action_Adventure_Science fiction
+299,Politics
+300,Sports non-event_Documentary
+301,Sports non-event_Outdoors_Nature
+302,Western_Romance
+303,Fantasy_Romance
+304,Community_Religious
+305,Children_Fantasy
+306,Children_Educational_Comedy_Animated
+307,Parenting
+308,Newsmagazine_Animals_Educational
+309,Children_Educational_Animals_Animated
+310,Special_Documentary_Music
+311,Children_Comedy_Adventure_Musical_Animated
+312,Sports talk_Horse
+313,Fishing
+314,Drama_Biography_Docudrama
+315,Action_Comedy
+316, Texas Ranger_Crime drama_Western
+317,Reality_Auto
+318,Reality_History
+319,Children_Musical comedy_Adventure_Fantasy_Animated
+320,Special_Documentary_Entertainment
+321,Adventure_Action_Fantasy
+322,Action_Crime drama_Fantasy
+323,Sports non-event_Action_Running
+324,Health_Documentary
+325,Anthology_Nature
+326,Spanish_Adventure_Action_Fantasy
+327,Action_Adventure_Fantasy_Science fiction
+328,Sports non-event_Community
+329,Religious_Variety
+330,Drama_Western
+331,Western_Comedy
+332,Sports talk_Sports non-event
+333,Auto_Auction
+334,Children_Action_Anime
+335,Romance-comedy_Action
+336,Sports non-event_Entertainment
+337,Outdoors_Educational
+338, TX_Music_Documentary
+339,Medical_Health
+340,Religious_Community
+341,Documentary_Travel
+342,Special_Military
+343,Drama_Martial arts
+344,Auto_Entertainment
+345,Special_Entertainment
+346,Talk_Educational_Self improvement_Religious
+347,Sports non-event_Action sports
+348,Crime drama_Action_Adventure_Law
+349,Documentary_War_History
+350,Talk_Cooking
+351,Special_Public affairs
+352,Auto
+353,Gaming
+354,History_Documentary
+355,Special_Documentary_History_War
+356,Sports non-event_Reality_Mixed martial arts
+357,Interview
+358,Comedy-drama_Biography
+359,Historical drama
+360,Special_History_War
+361, Holiday Shine!_Consumer
+362,Special_Documentary_History
+363,Documentary_Nature
+364,Talk_News_Public affairs
+365,Outdoors_Animals_Educational
+366,Music_Variety
+367,Suspense_Mystery
+368,Sports event_Mixed martial arts
+369,Crime drama_Suspense_Mystery
+370,Religious_Self improvement
+371,Sports event_Soccer
+372,Sports event_Snowmobile
+373,Football
+374,Drama_Animals
+375,Special_Sports non-event_Triathlon
+376,Special_Sports non-event_Skiing
+377,Talk_Religious
+378,Cooking_Educational
+379,History_War
+380,Documentary_Cooking
+381,Sitcom_Science fiction_Animated
+382,Children_Educational_Science_Animated
+383,Science fiction_Fantasy_Anime
+384,Comedy_Animated
+385,Documentary_Religious_Travel
+386,Agriculture_Animals
+387,Golf
+388,Agriculture_Travel
+389,Comedy_Adventure_Animated
+390,Sports talk_News
+391,Comedy-drama_Romance
+392,Sitcom_Romance
+393,Drama_Mystery
+394, Shut Up_Sitcom_Animated
+395,Biography_Drama_Music
+396,Suspense_Horror
+397,Action_Comedy_Fantasy
+398,Adventure_Action_Drama
+399,Comedy-drama_Mystery_Suspense
+400,Action_Crime drama_Suspense
+401,Science fiction_Horror
+402,Documentary_Cooking_Reality
+403,Musical_Drama
+404,Spanish_Suspense_Crime drama
+405,Spanish_Comedy_Fantasy
+406,Reality_Pro wrestling
+407,Spanish_Action
+408,Fantasy_Adventure
+409,Action_Animated
+410,Comedy-drama_Fantasy
+411,Suspense_Horror_Adventure
+412,Talk_Public affairs_News
+413,Sports non-event_Talk
+414,Sports talk_Interview
+415,Adults only
+416, at-cost!_Consumer
+417,Children_Game show
+418,Talk_Interview_Politics
+419,Reality_Shooting
+420,Reality_How-to_Home improvement
+421,Sports event_Motorcycle racing
+422,Science fiction_Adventure_Fantasy
+423,Action_Drama_Anime
+424,Science fiction_Action
+425, Ohio_Drama
+426,Horror_Mystery
+427,Action_Adventure_Fantasy_Suspense
+428,Talk_News_Educational
+429,Crime drama_Mystery_Medical
+430,Action_Science fiction
+431,Special_House/garden
+432,Talk_Bus./financial_News_Public affairs
+433,Variety_Entertainment
+434,Special_Sports non-event_Basketball
+435,Outdoors_Fishing_Hunting
+436,Miniseries_Suspense_Action
+437,Shopping_Computers
+438,Entertainment_Drama
+439,Special_Community
+440,Historical drama_War_Adventure
+441,Game show_History
+442,Fashion_Talk
+443,Reality_House/garden_Travel
+444,Children_Comedy_Fantasy_Animated
+445, MD_Special_Medical_Health
+446,Special_Health
+447,Art
+448,Science fiction_Action_Adventure_Suspense
+449,Newsmagazine_Auto
+450, Looks 27!_Consumer
+451,Special_Bus./financial
+452,Children_Adventure
+453,House/garden_How-to_Home improvement
+454,Drama_Comedy
+455,Reality_Documentary_Medical
+456,Sports non-event_Outdoors_Fishing
+457,Special_Awards_Entertainment
+458,Entertainment_Variety
+459,Reality_House/garden_Home improvement
+460,Drama_Science fiction
+461,Sports event_Wrestling
+462, Tony Bennett_Consumer
+463,Sitcom_Music
+464,Cooking_Health
+465,Children_Musical_Animated
+466,Sports non-event_Basketball_Sports talk
+467,Special_Documentary_Religious
+468,Special_Sports non-event_Skiing_Snowboarding
+469,Comedy_Variety
+470,Children_Comedy_Adventure_Fantasy_Animated
+471,Special_Outdoors_Fishing
+472,Special_Documentary_Health
+473,Adventure_Science fiction_Action_Animated
+474,Special_Travel
+475,Special_Health_Medical_Self improvement
+476,Nature
+477, MD_Special_Health_Medical
+478,Adults only_Special
+479,Anthology_Science
+480,Special_Sports non-event_Entertainment_Figure skating
+481,Documentary_Science
+482, Peter Frampton_ Chicago_Consumer
+483,Children_Educational_Science
+484,Documentary_Nature_Travel
+485,House/garden_Home improvement
+486,Science fiction_Adventure
+487,How-to_House/garden
+488,Public affairs_Politics
+489,Outdoors_Sports non-event
+490,Comedy_Horror_Suspense
+491,Spanish_Adventure_Comedy
+492,Special_Gaming
+493,Sports talk_Sports non-event_Basketball
+494,Adventure_Fantasy
+495,Reality_Home improvement_House/garden_How-to
+496, Leaks_ and the Media_Special
+497,Special_Self improvement
+498,Special_Comedy_Standup
+499,Reality_Home improvement_How-to_Travel
+500,Talk_Health
+501,Spanish_Fantasy_Romance
+502,Home improvement
+503,Reality_Documentary_Health
+504,Talk_Interview_News_Variety
+505,Children_Action_Martial arts
+506,Children_Fantasy_Comedy
+507,Sports non-event_Auto
+508,Cooking_Self improvement
+509,Sports event_Bowling_Playoff sports
+510,Crime drama_Adventure_Action
+511,Science fiction_Fantasy_Adventure
+512,Fantasy_Action
+513,Music_Documentary
+514,Consumer_Cooking
+515,Children_Educational_Science_Nature_Animals
+516,Sports non-event_Martial arts_Boxing
+517,Sports non-event_Outdoors_Hunting_Archery
+518,Sports non-event_Boxing
+519,Community_Sports talk_Hockey
+520,Music_Religious_Variety
+521,Sports non-event_Biography
+522,Special_Wrestling
+523,Educational_How-to_Home improvement
+524,Reality_Law
+525, Ricky_ Dicky & Dawn_Sitcom
+526,Children_Entertainment_Animated
+527,Special_Consumer_Bus./financial
+528,Music_Talk_Debate
+529,Biography_Romance
+530,Suspense_Science fiction
+531,Children_Adventure_Educational_Animated
+532,Comedy_Crime_Mystery
+533,Music_Talk
+534,Children_Action_Adventure_Fantasy_Animated
+535, Above All_Drama
+536,Drama_Crime
+537,Talk_Bus./financial
+538,Special_Medical_Documentary
+539,News_Talk_Interview
+540,Horse
+541,Agriculture
+542,Action_Martial arts_Crime drama
+543, Health & Happiness With David_Special_Health_Exercise
+544,Documentary_History_War
+545, Seven Nights_Romance-comedy
+546,Sports non-event_Outdoors_Action sports
+547,Adventure_Drama
+548,Sports non-event_Pro wrestling
+549,Children_Sitcom_Animated
+550,Sports non-event_Basketball_Football
+551,Spanish_Western_Romance
+552,Spanish_Mystery_Drama_Suspense
+553,Variety
+554,Sitcom_War
+555,Adults only_Drama
+556,Special_Sports non-event_Anthology
+557,Crime_Documentary
+558,Reality_Medical
+559,Sports non-event_Horse
+560,000 AC_Special_History_Documentary
+561,Reality_Entertainment_Music
+562,Special_Documentary_Nature
+563,Drama_Horror_Fantasy
+564,Sports non-event_Baseball
+565,Fantasy_Comedy
+566,Cooking_Reality
+567,Special_Cooking_Travel
+568,Reality_Variety_Entertainment
+569,Cooking_Travel
+570,Travel_Documentary
+571,Crime_Biography
+572,Horror_Science fiction_Suspense
+573,Children_Adventure_Entertainment_Animated
+574,Spanish_Western
+575,Adults only_Mystery_Anthology_Suspense
+576,Comedy_Fantasy_Science fiction
+577,Children_Adventure_Comedy_Animated
+578,Reality_Adventure_Outdoors
+579,Comedy_Mystery_Animated
+580,News_Newsmagazine
+581,Action_Fantasy_Western_Martial arts
+582,Drama_Fantasy_Mystery_Suspense
+583,Action_Horror
+584,Biography_Crime drama
+585,Special_History_Science_Religious
+586,Music_Religious
+587,Sitcom_Comedy_Romance-comedy
+588, Better Mood!_Consumer
+589, Call ..._Comedy
+590,Music special
+591,Fantasy_Adventure_Anime
+592, Mr. Moto_Mystery
+593,Historical drama_Biography
+594,Children_Educational_Entertainment_Animated
+595,Suspense_Mystery_Drama
+596, je t'aime_Romance_Drama_Comedy
+597,How-to_Home improvement
+598,Sports talk_Basketball
+599,Drama_Romance_Suspense
+600,Sports non-event_How-to_Boat
+601,Sports event_Figure skating
+602,Reality_Animals_Educational
+603,Sports event_Lacrosse
+604,Science fiction_Fantasy
+605,Consumer_Shopping
+606,News_Crime
+607,Entertainment_Military
+608,Anthology_Drama_Suspense
+609,Science fiction_Adventure_Animated
+610,Drama_Action
+611,Anthology_Science fiction
+612, The Jackson 5_Consumer
+613,Soccer_Sports non-event
+614,Educational_News_History
+615,Entertainment_Sports non-event
+616,Reality_Educational
+617, Amor y Otras Perversiones_Spanish_Comedy_Drama
+618,Soccer_Talk_Sports non-event
+619,Entertainment_Travel
+620,Bus./financial_Agriculture
+621,News_Religious
+622,Animals_Science_Educational
+623,Science_Educational
+624,Action_Martial arts
+625,Spanish_Action_Comedy_Science fiction
+626,Educational_Science
+627,Drama_Romance_Musical
+628, Olly_ Dive_Children_Adventure
+629,Travel_Biography
+630,Talk_Public affairs_Politics
+631,Football_Sports talk
+632,Reality_Educational_Comedy
+633,Spanish_Drama_Martial arts
+634,Special_Home improvement_Reality
+635,Hunting_Fishing_Adventure
+636,Reality_Variety
+637,Spanish_Comedy-drama
+638,Sports talk_Boxing
+639,Sports non-event_Fishing_Outdoors
+640,Children_Fantasy_Comedy_Animated
+641,Baseball
+642,Basketball_Sports non-event
+643, Where Are You!_Children_Adventure_Mystery_Animated
+644,Children_Adventure_Mystery_Animated
+645,Crime_Educational
+646,Documentary_Crime_Auto
+647,Anthology_Science fiction_Fantasy_Suspense
+648,Comedy_Action_Animated
+649,Fantasy_Anime
+650,Sports non-event_Newsmagazine
+651,Special_Politics_Documentary
+652,Special_Outdoors_Animals
+653,Sports non-event_Outdoors_Reality
+654,Drama_Paranormal_Mystery
+655,Spanish_Action_Adventure_Fantasy
+656,Docudrama
+657,Public affairs_Talk
+658,Children_Action_Adventure_Comedy_Animated
+659,Reality_Rodeo_Equestrian
+660,Special_Reality
+661,Environment_How-to_House/garden
+662,Politics_Interview_Talk
+663,News_Agriculture
+664,Special_Health_Self improvement
+665,Documentary_Reality
+666,Special_Medical_Health_Self improvement
+667,Children_Educational_Science_Technology_Animated
+668,Special_Awards_Music
+669,Fantasy_Action_Adventure
+670,Educational_Interview
+671,Bus./financial_Consumer_Public affairs
+672, Esq._Reality_Law_Crime
+673,How-to_Exercise
+674,Exercise
+675,Military
+676,Home improvement_How-to
+677,Public affairs_Community
+678,Documentary_Educational_Nature
+679,Reality_Comedy_Music
+680,Reality_Medical_Animals
+681, Way Back_Comedy-drama
+682,Sports non-event_Rodeo
+683,Reality_Animals_Medical
+684,Reality_Boxing
+685,Spanish_Adventure_Drama_Romance
+686,Children_Adventure_Action_Comedy_Fantasy_Animated
+687,Animals_Science_Environment_Educational
+688,Outdoors_Reality
+689,Talk_Entertainment_Variety
+690,Sports non-event_Outdoors_Adventure
+691, Let's Cook!_Children_Cooking
+692,Music_Interview
+693,House/garden_Agriculture
+694,Sports non-event_Motorsports
+695,Special_Animals
+696,Special_Documentary_Science_Nature
+697,News_Bus./financial
+698,Western_Adventure
+699, ``$9.95 S&H''_Consumer
+700,Reality_House/garden_Home improvement_How-to
+701,Talk_Variety_Comedy
+702,Spanish_Action_Crime drama
+703, La Pel?cula_Spanish_Drama_Romance
+704, No Master_Crime drama
+705,Special_Talk
+706,Sports non-event_Auto_How-to
+707,Collectibles_Art_Arts/crafts
+708,Western_Drama_Suspense
+709,News_Interview
+710,Outdoors_Hunting_Sports non-event
+711,Comedy_Adventure_Fantasy
+712,Adults only_Spanish
+713, fast & easy!_Consumer
+714,Drama_Crime drama
+715,Sports talk_Sports non-event_Anthology
+716,Special_Medical
+717,Special_Documentary_Politics
+718,Sports event_Horse
+719,Drama_Adventure_Suspense
+720,Religious_News
+721,Drama_Medical
+722,Comedy-drama_Medical
+723,Suspense_Horror_Mystery
+724,Public affairs_Agriculture
+725,Comedy_Entertainment
+726,Special_History_Biography
+727, el R?pido_Spanish_Action
+728,Reality_Docudrama
+729,Children_Fantasy_Educational
+730,Drama_Music
+731,Football_Sports non-event
+732, White & Blue_Politics
+733,Musical_Religious
+734,Community_Sports non-event
+735, Rod Stewart_ Celine Dion_Consumer
+736,Travel_Reality
+737,Community_Politics_Talk
+738,News_Sports non-event_Sports talk
+739,Drama_Football
+740,Game show_Variety
+741,Auto_Consumer
+742,Drama_Hockey_History_Romance_Suspense
+743,Animated_Sitcom
+744,Action_Anime
+745,Children_Fantasy_Entertainment_Animated
+746,Action_Adventure_Fantasy_Science fiction_Anime
+747,Reality_Dance
+748,House/garden_How-to
+749,Spanish_Biography_Drama_Music
+750,Sports non-event_Action
+751,Talk_How-to
+752,Educational_Cooking
+753,Special_News
+754, You Shut Up!_Talk
+755,Special_Standup_Comedy
+756,Reality_Home improvement_How-to
+757,Special_Comedy
+758, Sin Primavera_Spanish_Drama
+759,Science fiction_Animated
+760,Comedy_Sports non-event
+761, Less Stress_Consumer
+762, Relieve Back Pain_Consumer
+763,Consumer_Technology
+764,Outdoors_Hunting_Fishing
+765,Sports non-event_Equestrian
+766,Documentary_Medical
+767,Crime drama_Comedy_Mystery
+768, Casos de la Vida Real_Drama_Reality
+769,Spanish_Children_Comedy_Adventure_Musical_Animated
+770,Spanish_Action_Comedy
+771,Football_Cheerleading
+772,Talk_Health_Self improvement
+773,Religious_Music
+774,Sports non-event_Biography_Football
+775,Children_Educational_Comedy
+776, Jr._Sports non-event
+777,Special_Politics
+778,Reality_Bus./financial
+779,Horror_Science fiction_Comedy
+780,Children_Adventure_Action_Animated
+781,Reality_Health
+782,Bus./financial_Talk_News
+783,Crime_History
+784,Soap
+785,Special_Documentary_Medical
+786,Nature_Travel
+787,Sports non-event_Gymnastics
+788,Children_Music
+789,Mystery_Drama_Crime_Adventure
+790,Travel_Adventure
+791,Drama_Fantasy_Romance
+792,Special_Technology_Bus./financial
+793,Children_Documentary
+794,Outdoors_Travel
+795,Action_Crime drama
+796,Science fiction_Horror_Adventure_Action
+797,Spanish_Horror
+798, Deadly Night 5: Toy Maker_Horror
+799,Law
+800,Children_Educational_Religious_Anime
+801,Sports non-event_Tennis
+802,Drama_Western_Crime_Action
+803,Anthology_Suspense
+804,Talk_Variety_Entertainment
+805,Spanish_Crime drama
+806,Weather_Documentary
+807, Another Time: Llewyn Davis_Special_Music_Entertainment
+808,Musical_Music
+809,Religious_Entertainment_Variety
+810,Children_Fantasy_Adventure_Anime
+811,Special_News_Sports non-event
+812,Talk_Environment_Educational
+813,Adults only_Reality
+814, Educational_ Government Access_Public affairs
+815, Your Vote_Politics
+816,Children_Comedy_Animals_Animated
+817,Crime drama_Biography
+818,Children
+819,Comedy_Music_Animated
+820, Kotter_Sitcom
+821,Documentary_Health
+822,Special_Documentary_Biography
+823,Spanish_Musical comedy
+824,Drama_Adventure_Fantasy
+825,Children_Special_Animated
+826,Horror_Action_Fantasy_Adventure
+827,Special_Variety
+828,Sports talk_News_Sports non-event
+829,Interview_Bus./financial_Technology
+830,Sports event_Skiing
+831,Music_Entertainment
+832,Community_Consumer
+833,Children_Music_Educational
+834,Variety_Sports non-event
+835,Reality_Sports non-event_Soccer
+836,Bus./financial_News
+837, Healthy Mind_Health
+838,Weather_Community
+839,Documentary_Crime_Law
+840,Mystery_Crime drama
+841,Children_Adventure_Anime
+842,Sports non-event_Game show
+843,Computers_Gaming_Entertainment_Consumer
+844,Special_Documentary_Entertainment_Biography
+845,Children_Action_Fantasy_Animated
+846,Hockey
+847,Children_Comedy_Adventure_Science fiction_Animated
+848,Sports non-event_Outdoors_Hunting_Fishing
+849,Children_Fantasy_Adventure_Animated
+850,News_Science
+851,Adventure_Martial arts
+852,Standup_Comedy
+853,Science fiction_Fantasy_Drama
+854,Sports non-event_Adventure
+855,Talk_Religious_Politics
+856,Shopping_House/garden_Collectibles
+857,Special_Bus./financial_Documentary
+858, Baubles_ and Jewels_How-to_Arts/crafts_Fashion
+859,Special_Sports non-event_Pro wrestling
+860,Religious_Musical
+861,Auto_Shopping
+862,000 plus Commercial_Home improvement
+863,Special_Documentary_Art
+864,Docudrama_Mystery_Crime
+865,Newsmagazine_Entertainment_Educational
+866,Sports event_Racquet
+867,Educational_Self improvement
+868,How-to_Educational
+869,Drama_Action_Adventure
+870,Talk_Home improvement_House/garden_How-to
+871,Children_Comedy
+872,Miniseries_Drama
+873,Spanish_Drama_Romance
+874,Religious_Consumer_Shopping
+875,Miniseries_Soap
+876,Sports non-event_Outdoors_Nature_Fishing_Hunting
+877,Talk_Religious_Interview
+878,Sitcom_Romance-comedy
+879,Agriculture_Animals_Equestrian
+880,Entertainment_Sports non-event_Soccer
+881,Children_Art
+882,Special_Health_Medical
+883,Children_Special_Mystery_Animated
+884,Children_Action_Adventure_Animated
+885,Spanish_Suspense
+886,Spanish_Romance
+887,Holiday special_Religious
+888,Special_Entertainment_Game show
+889,Soap_Entertainment_Comedy-drama
+890,Spanish_Adventure
+891,Public affairs_Law
+892,Entertainment_Documentary_Crime
+893,Science fiction_Anime
+894,Equestrian_Interview
+895,Bus./financial_Community
+896,Special_History_Science
+897,Music_Romance
+898,Medical_Health_Comedy
+899,Musical_Entertainment
+900, Shovels & Manuscripts_Religious
+901,Children_Comedy_Entertainment_Animated
+902, Seventh_Special_Religious
+903,Reality_Home improvement
+904,Sports talk_Baseball
+905,Special_Entertainment_Newsmagazine
+906,Spanish
+907,Drama_Romance_Comedy
+908, Condos_ Commercial_ Rentals_Home improvement
+909,Home improvement_How-to_House/garden
+910,Special_Hunting
+911,Community_Talk
+912,Children_Anthology_Fantasy_Animated
+913,Gay/lesbian
+914,Special_Documentary_Comedy
+915,Children_Educational_Adventure_Animated
+916,Children_Dance_Animated
+917,Documentary_Newsmagazine
+918,Special_Documentary_Sports non-event_Adventure
+919,Sports event_Boxing
+920,Children_Educational_Music
+921,Consumer_Auto
+922,Special_Entertainment_Music
+923,Health_Exercise
+924,Hunting
+925,Animals
+926,Animals_Medical
+927,Spanish_Adventure_Drama
+928,Special_Mixed martial arts_Sports non-event
+929,Drama_Western_Action
+930,Documentary_How-to
+931,Adventure_Suspense_Comedy
+932,Gay/lesbian_Interview
+933,Public affairs_Newsmagazine
+934,Educational_Animals
+935,Action_Fantasy_Adventure
+936,Special_Documentary_Performing arts
+937,Technology
+938,Environment_Nature
+939,Talk_Interview_Comedy_Politics
+940,Special_Health_Science
+941,Drama_Fantasy
+942,Talk_Fashion_House/garden_Variety
+943,Soccer_Sports talk
+944,Comedy_Interview
+945,Children_Comedy_Western
+946,How-to_Fishing
+947,Special_Documentary_Nature_Animals
+948,Hunting_Fishing_Sports non-event
+949,Children_Comedy_Western_Animated
+950, Ha!_Comedy
+951,Religious_Talk
+952,Anthology_Documentary_Biography
+953,Nature_Educational
+954,Children_Fantasy_Educational_Animated
+955,Children_Comedy_Fantasy_Adventure_Animated
+956,Entertainment_Interview
+957,Children_Entertainment
+958,Documentary_Music_Art
+959,Travel_Community_Documentary
+960, Looks 27!!_Consumer
+961,Outdoors_Adventure
+962,Medical
+963,Sports talk_Newsmagazine
+964,Sports event_Skiing_Snowboarding
+965,Sitcom_Comedy
+966,Sports non-event_Motorsports_Motorcycle
+967,Special_Religious_Music
+968,Children_Adventure_Fantasy_Action_Animated
+969,Reality_Fashion
+970,How-to_Art
+971,Fundraiser_Religious
+972,Aviation
+973,Sports non-event_Hockey_News
+974,Special_Documentary_Environment
+975,Sports event_Hockey_Playoff sports
+976,Special_Biography
+977,Reality_Auto_Sports non-event
+978,Special_Reality_Health
+979,Biography_Documentary
+980,Historical drama_War
+981,Sports non-event_Hunting_Fishing
+982,Health_Medical
+983,Interview_Entertainment
+984,Reality_Documentary_Nature_Animals
+985,Community_Public affairs
+986,Law_Crime
+987,Animals_Outdoors
+988,Special_Science_Health
+989,Shopping_House/garden
+990,Politics_Public affairs_Community
+991,Motorcycle
+992,Parade
+993,Travel_Agriculture_History
+994,Wrestling
+995,Special_Sports non-event_News
+996,Children_Science_Fantasy_Animated
+997, Hank Williams_ George Jones_Consumer
+998,Children_Health_Educational
+999,Special_Music_Religious
+1000,Special_Community_Religious
+1001,Sports non-event_Sports talk_Basketball
+1002,Children_News
+1003,Military_War
+1004,Sports non-event_Outdoors_Boat_Fishing
+1005,Entertainment_News
+1006,Children_Entertainment_Educational
+1007,Community_Educational
+1008,Music_Biography
+1009,Children_Religious
+1010,Military_War_History
+1011,Fashion
+1012,Fashion_Entertainment
+1013,Science_History
+1014,Public affairs_Religious
+1015,Reality_Dance_Music
+1016,Documentary_Educational_Self improvement
+1017,Special_Nature_Outdoors
+1018,Reality_Romance_Comedy
+1019,News_Religious_Interview
+1020,Game show_Educational_History
+1021,Documentary_Reality_Law
+1022,Reality_Football
+1023,Health_Cooking_Exercise
+1024,Special_Entertainment_Reality
+1025, No Minimum_Public affairs
+1026,Consumer_Public affairs
+1027, Donald Ritchie_Special
+1028,Talk_Mystery
+1029,Action_Comedy-drama
+1030,Drama_Action_Adventure_Fantasy
+1031,Special_Documentary_Crime
+1032,Consumer_House/garden
+1033,Special_Public affairs_Politics
+1034,Sports non-event_Biography_Baseball
+1035,Documentary_News
+1036,Music_Reality
+1037,Collectibles
+1038, painless hair removal_Consumer
+1039, The People's Pope_Religious
+1040, Wet Holes_Adults only
+1041,Educational_Travel_Adventure
+1042,Special_Sports non-event_Golf
+1043,Sports non-event_Kayaking
+1044,Drama_Romance_Horror
+1045,Interview_Community
+1046,Special_Art
+1047,Children_Animals_Educational
+1048,Adults only_Anthology
+1049,Documentary_Animals_Nature_Outdoors
+1050,Reality_Fashion_Self improvement
+1051,Nature_Outdoors
+1052,Arts/crafts_How-to
+1053,Environment
+1054,Special_News_Newsmagazine
+1055,Special_Sports non-event_Action sports_Skiing_Snowboarding
+1056,Talk_Bus./financial_Interview
+1057, 500 Dollars to F..._Adults only
+1058,Boat
+1059,Spanish_Science fiction_Adventure_Action
+1060,Action sports_Outdoors
+1061,Interview_Biography_Reality
+1062,Cooking_Talk
+1063,Educational_Science_Parenting
+1064,Educational_Documentary_Cooking
+1065,Sports talk_Mixed martial arts
+1066,Self improvement_Exercise
+1067,Sports event_Swimming
+1068,Talk_Community
+1069,Religious_Health_Music
+1070,Spanish_Drama_War
+1071,Children_Arts/crafts_Entertainment
+1072,Newsmagazine_Public affairs
+1073,Talk_Politics_Debate
+1074,Comedy_Drama
+1075,Special_Sports non-event_Track/field
+1076,Documentary_Agriculture
+1077,Sports non-event_Action sports_Adventure
+1078,Travel_Adventure_Educational
+1079,Children_Comedy_Fantasy
+1080,Community_Health
+1081, o Muere_Reality_Outdoors_Adventure
+1082, Real Answers_Parenting
+1083,Bus./financial_Talk
+1084,Special_Documentary_Bus./financial
+1085,Educational_Community
+1086,How-to_Arts/crafts
+1087,Children_Fantasy_Anime
+1088,Hunting_Outdoors
+1089,Musical_Soap
+1090,Special_Religious_Science
+1091, ¿Qu? Quieres que Haga?_Religious
+1092,Educational_House/garden_How-to_Home improvement
+1093,Reality_Sports non-event_Action sports
+1094, Sixty from the '60s_Special
+1095,Entertainment_Music
+1096,Educational_Travel
+1097,Children_Action_Music_Animated
+1098,How-to_Travel_Cooking
+1099,Special_Documentary_Educational_Art
+1100, Texas_Community
+1101,Special_Drama
+1102,News_Interview_Community
+1103,Animals_Nature
+1104,Spanish_Suspense_Drama
+1105,Adults only_Special_Documentary
+1106,Sports event_Soccer_Intl soccer
+1107,Special_Sports talk
+1108,Children_Drama_Animated
+1109,Weather_News
+1110,Children_Educational_How-to
+1111,Sports non-event_Softball
+1112,Special_Music_Romance
+1113,Religious_Interview
+1114,Special_Sports talk_Soccer
+1115,Spanish_Comedy_Romance-comedy
+1116,Religious_Public affairs
+1117,Special_Figure skating_Entertainment
+1118,News_Sports non-event
+1119,Outdoors_Variety
+1120, the Last Dinosaur_Children_Adventure_Animated
+1121,Entertainment_Documentary
+1122,Religious_Talk_Health
+1123,Adults only_Entertainment
+1124,News_Travel
+1125,News_Newsmagazine_Weather
+1126,Entertainment_Fashion
+1127,Children_Educational_Dance_Animated
+1128,Special_Entertainment_Music_Variety
+1129,Special_Art_History
+1130,Tennis
+1131, Too_Children_Variety_Music
+1132, Hot Summer_Drama
+1133,News_Bus./financial_Interview
+1134,Fashion_Shopping
+1135,Comedy-drama_Sitcom
+1136,Documentary_Historical drama
+1137,Science_Technology_Educational
+1138,Fishing_Sports non-event_Outdoors
+1139,Special_Community_Documentary
+1140,History_Art_Cooking
+1141,Newsmagazine_News
+1142,Special_Medical_Health_Interview_Talk
+1143,Special_Sports non-event_Awards
+1144, Siete D?as_ Siete Noches_Spanish_Drama
+1145,Educational_Documentary
+1146,Talk_News_Debate
+1147,Art_Music
+1148,Historical drama_Drama
+1149,Sports non-event_Watersports
+1150,Children_Anthology_Animated
+1151,Anthology
+1152,Sports non-event_Wrestling
+1153,Children_Cooking_Entertainment_Educational
+1154,Sports non-event_Music_Religious
+1155,House/garden_Outdoors_Agriculture
+1156, Worship My Tight Wet Coochie_Adults only_Special
+1157,Community_Environment_Public affairs
+1158, Gemstones and More_Shopping
+1159,Auction
+1160,Science_Nature_Anthology
+1161,Documentary_Nature_Outdoors
+1162,Special_Awards
+1163,Sports non-event_Awards
+1164,Nature_Environment_Educational
+1165,History_Documentary_Newsmagazine_Interview
+1166,Soccer
+1167,Sports non-event_Outdoors_Hunting_Fishing_Adventure_Cooking
+1168,History_Public affairs
+1169,Medical_Documentary
+1170,Community_Public affairs_News
+1171,Variety_Comedy_Music
+1172,Parenting_Educational_Music
+1173,Spanish_Historical drama
+1174,Spanish_Horror_Suspense
+1175, LA_Religious
+1176,Spanish_Comedy_Horror_Suspense
+1177,Documentary_War
+1178,Religious_Music_Variety
+1179,Dance_Music
+1180,Consumer_Bus./financial
+1181, Especies Amenazadas_Animals_Nature
+1182,News_Technology
+1183, Sharing Life_Religious
+1184,News_Documentary
+1185,Nature_Animals
+1186,Talk_Public affairs_Interview
+1187, Jam?n_Spanish_Comedy-drama
+1188,Exercise_Health
+1189,Documentary_Science_History
+1190,News_Docudrama
+1191, Little Anthony_Consumer
+1192,Nature_Environment
+1193,Shopping_Home improvement
+1194,Horse_Horse
+1195, el Robot_Children_Adventure
+1196,Biography_History_Comedy
+1197,Spanish_Musical_Comedy-drama
+1198,Children_Science fiction_Fantasy_Animated
+1199, the Fairytale Detective_Children_Fantasy_Animated
+1200,Children_Educational_Animals
+1201,Special_Newsmagazine
+1202,Interview_Art_History
+1203,Children_Outdoors_Nature_Educational
+1204,Variety_Entertainment_Technology_Computers
+1205,Comedy-drama_Drama_Comedy_Romance
+1206,Talk_Educational_History_Religious
+1207,News_Public affairs_Entertainment
+1208,Weather_Community_Educational_Environment
+1209,History_Science
+1210,Music_Travel
+1211, AD_
+1212,Special_Musical_Drama
+1213,Special_Religious_Fundraiser
+1214,Holiday_Sitcom
+1215,Bus./financial_Travel
+1216,Adults only_Comedy
+1217,Outdoors_Adventure_Hunting_Fishing
+1218, Rub Me_ & F... Me_Adults only
+1219,Special_Public affairs_Educational
+1220,Documentary_Animals_Nature_Anthology
+1221,Drama_Adventure_Romance_Action
+1222,Reality_Talk
+1223,Children_Comedy_Adventure
+1224,House/garden_Arts/crafts
+1225,Drama_History
+1226,Community_Home improvement_Interview
+1227,Music_Entertainment_Community
+1228,Children_Adventure_Comedy_Entertainment_Animated
+1229,Sports non-event_Horse_How-to
+1230,Educational_Public affairs
+1231, el Hombre Fuerte de Panam?_Documentary
+1232,Sports non-event_Outdoors_Diving
+1233,Adventure_Action_Anime
+1234,Historical drama_War_History
+1235,Comedy_Drama_Animated
+1236,Reality_Outdoors
+1237,Talk_Educational_Politics_Public affairs
+1238,Special_Documentary_Military
+1239,Spanish_Drama_Western
+1240,Children_Entertainment_Comedy
+1241, Japan_Talk_News
+1242,Science_Computers_Educational
+1243, Does My Shaft Look 2 Big?_Adults only
+1244,Talk_Medical_Health
+1245,Pro wrestling
+1246,Music_Educational
+1247,Variety_Religious
+1248, Nasty_ Fat Girls_Adults only
+1249, Oregon_Religious
+1250,Talk_Entertainment_Religious
+1251,Entertainment_Environment
+1252,Musical_Docudrama_Biography
+1253,Talk_House/garden_How-to
+1254,Special_Paranormal
+1255,Exercise_Martial arts
+1256,Debate_Educational
+1257,Technology_Science
+1258,Travel_Cooking_Entertainment
+1259,Talk_House/garden_Home improvement
+1260,Paranormal
+1261,Auto_News
+1262,Variety_Documentary
+1263,Entertainment_History_Religious_Documentary
+1264,Medical_Talk
+1265,Travel_Art_Cooking_Documentary_History
+1266,Bus./financial_How-to
+1267,Documentary_Variety
+1268, Mentiras y Muertos_Spanish_Crime drama_Romance
+1269,Educational_Environment
+1270,Children_Educational_Travel_Animated
+1271,Spanish_Fantasy_Adventure_Action
+1272,Public affairs_Law_Crime_Self improvement
+1273,Interview_News
+1274,Animals_Horse
+1275,Adults only_Special_Documentary_Reality
+1276,Special_News_Public affairs
+1277,Auction_Consumer
+1278,Sports non-event_Outdoors_Religious_Hunting
+1279,Special_Music_Dance
+1280,Sports non-event_Running
+1281,Educational_Art
+1282,News_Variety
+1283,Arts/crafts
+1284,News_Weather
+1285,Special_Nature
+1286,Educational_How-to_Arts/crafts
+1287,Talk_Politics_News
+1288,Talk_Variety
+1289,Sports non-event_Card games_Poker
+1290, Paul and Mary_Special_Music
+1291,Action_Adventure_Suspense
+1292,Talk_Sports non-event_Basketball
+1293,Talk_Entertainment_Educational
+1294,Children_Educational_Health_Science
+1295,Entertainment_Talk
+1296,Boxing_Mixed martial arts_Sports non-event
+1297,Special_Talk_Newsmagazine
+1298,House/garden_Shopping
+1299,Newsmagazine_Politics_Educational_Public affairs
+1300,Entertainment_Public affairs
+1301,Outdoors_Nature
+1302, NC_Public affairs
+1303,Educational_Science_Animated
+1304,Children_Educational_Environment_Nature
+1305,Special_Religious_Documentary
+1306,Consumer_Community
+1307,Children_Special_Adventure_Educational_History_Animated
+1308,Sports non-event_Baseball_Biography
+1309,Community_Bus./financial
+1310,Educational_Children_Religious
+1311,Action sports
+1312,Sports talk_Golf_Newsmagazine
+1313,Bus./financial_Educational_How-to
+1314,Special_Horse
+1315,Cooking_Community
+1316,Documentary_History_Arts/crafts
+1317,Sports talk_Basketball_Newsmagazine
+1318,Sports non-event_Skiing_Snowboarding_Snowmobile_Kayaking_Mountain biking
+1319,Educational_Community_Documentary
+1320,Sports talk_Baseball_Newsmagazine
+1321,Game show_Educational
+1322,Sports non-event_Surfing
+1323,Religious_Children
+1324,Religious_Entertainment
+1325,Religious_Educational_History
+1326,Sports talk_Soccer
+1327,Children_Drama_Animals
+1328,Sports non-event_Variety
+1329,Children_Religious_Science fiction
+1330,Special_Community_Public affairs
+1331,Special_Pro wrestling
+1332,Sports non-event_Special_Auto racing
+1333,Interview_Educational_Religious_Public affairs
+1334,Fishing_Cooking
+1335,Sports non-event_Sports talk_Hockey
+1336,Documentary_Environment
+1337,Children_Adventure_Fantasy
+1338,Music_Entertainment_Interview
+1339,Interview_Science
+1340,Children_Religious_Educational
+1341,Children_Exercise_Community
+1342,Religious_Public affairs_Community
+1343,Comedy_Romance
+1344, Inspiraci?n y Victoria_Religious
+1345,Talk_Religious_Community
+1346,Music_Dance
+1347,Religious_Children_Animated
+1348,Newsmagazine_Documentary
+1349,Community_Interview_News
+1350,Children_Religious_Animated
+1351,Community_Religious_Talk
+1352,Community_Talk_Public affairs
+1353,Bus./financial_Technology
+1354, Texas_Special
+1355,Newsmagazine_Interview
+1356,News_Entertainment
+1357,Public affairs_Comedy
+1358,Sports non-event_Outdoors_Fishing_Golf
+1359,Cooking_Fishing
+1360,Computers
+1361,Hunting_Outdoors_Sports non-event
+1362,Shopping_Community
+1363,000_House/garden
+1364,000 Plus all Other_House/garden
+1365,Anthology_Western
+1366,Children_Variety_Animated
+1367,Talk_Newsmagazine_Public affairs
+1368,Spanish_Children_Comedy_Adventure_Mystery_Animated
+1369,Special_Weather
+1370,Special_Technology
+1371, D?nde Estas?_Children_Adventure_Mystery_Animated
+1372,Children_Entertainment_Adventure_Educational_Animated
+1373,Sitcom_Comedy_Entertainment
+1374,Documentary_History_Religious
+1375, Inc._Documentary_Reality
+1376,Public affairs_Travel_Weather
+1377,Comedy_Animals
+1378,Travel_Community
+1379,Outdoors_Science
+1380,Special_Community_Weather
+1381,Educational_Entertainment
+1382,Animated
+1383,Special_Boat
+1384,Public affairs_Politics_Community
+1385,History_Travel
+1386, Longer & Uncut_Comedy_Animated
+1387,Children-talk
+1388,Action_History_Documentary
+1389,Sports non-event_Football_Sports talk

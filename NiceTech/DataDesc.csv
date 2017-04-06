@@ -1,0 +1,393 @@
+name,mapping,type,description,nullable,defaultValue,masking type
+IsAnonymous,IsAnonymous,long,IsAnonymous,FALSE,,none
+IsLogical,IsLogical,int,IsLogical,FALSE,,none
+PathTypeID,PathTypeID,string,PathTypeID,FALSE,-1,none
+SequenceTypeID,SequenceTypeID,int,SequenceTypeID,FALSE,300,none
+PreviousChannelTypeID,PreviousChannelTypeID,int,PreviousChannelTypeID,FALSE,,none
+SessionID,SessionID,long,SessionID,FALSE,,none
+ChannelTypeID,ChannelTypeID,int,ChannelIdType,FALSE,,none
+IVREventActivityPathID,IVREventActivityPathID,string,IVREventActivityPathID,TRUE,,none
+SequenceID,SequenceID,string,SequenceID,FALSE,-1,none
+PlaceInSequence,PlaceInSequence,int,PlaceInSequence,FALSE,0,none
+SessionNumericContactReasons,SessionNumericContactReasons,long,The numeric value of the contact reasons of the session,FALSE,,none
+SessionContactReasons,SessionContactReasons,string,The list of the contact reasons of the session,FALSE,,none
+SessionStartTimeUTC,SessionStartTimeUTC,date,UTC Session Start Time,FALSE,,none
+SessionEndTimeUTC,SessionEndTimeUTC,date,UTC Session End Time,FALSE,,none
+SessionDuration,SessionDuration,duration,SessionDuration,FALSE,,none
+LastSessionInSequence,LastSessionInSequence,long,is the last session in sequence,FALSE,0,none
+AgentID,AgentID,long,AgentID,FALSE,0,none
+UnifiedAdminGroup,UnifiedAdminGroup,long,UnifiedAdminGroup,FALSE,-1,none
+DateID,DateID,long,session start time in the format of YYYYMMDD,FALSE,,none
+SessionSystemID,SessionSystemID,int,SessionSystemID,FALSE,,none
+NumberOfEvents,NumberOfEvents,long,the number of events of the session,FALSE,,none
+NextSessionID,NextSessionID,long,NextSessionID,FALSE,,none
+NextSessionSystemID,NextSessionSystemID,int,NextSessionSystemID,FALSE,,none
+NextSessionNumericContactReasons,NextSessionNumericContactReasons,long,The numeric value of the contact reasons of the next session,FALSE,,none
+NextSessionContactReasons,NextSessionContactReasons,string,The list of the contact reasons of the next session,TRUE,,none
+NextSessionStartTimeUTC,NextSessionStartTimeUTC,date,UTC Start Time of the next session,FALSE,,none
+NextSessionEndTimeUTC,NextSessionEndTimeUTC,date,UTC End Time of the next session,FALSE,,none
+NextSessionDuration,NextSessionDuration,duration,NextSessionDuration,FALSE,,none
+NextChannelTypeID,NextChannelTypeID,int,NextChannelTypeID,FALSE,,none
+NextDateID,NextDateID,long,next session start time in the format of YYYYMMDD,FALSE,,none
+TimeInterval,TimeInterval,long,TimeInterval,FALSE,,none
+Master_BAN,Master_BAN,string,MasterBAN,FALSE,0,HASH
+PlatformCustomerID,PlatformCustomerID,string,PlatformCustomerID,FALSE,,HASH
+IsSessionNCP,IsSessionNCP,long,is the session ncp,FALSE,,none
+IsSessionFCR,IsSessionFCR,long,is the session fcr,FALSE,,none
+IsSequenceNCP,IsSequenceNCP,long,is the sequence ncp,FALSE,0,none
+IsSequenceFCR,IsSequenceFCR,long,is the sequence fcr,FALSE,0,none
+IsSequenceRepeated,IsSequenceRepeated,long,is the sequence repeated,FALSE,0,none
+IsSequenceSelfService,IsSequenceSelfService,long,is the sequence self service,FALSE,0,none
+PlaceInSequenceByChannel,PlaceInSequenceByChannel,int,PlaceInSequenceByChannel,FALSE,0,none
+FirstDateID,FirstDateID,long,first session start time in the format of YYYYMMDD,FALSE,,none
+LifeCycleID,LifeCycleID,long,Session LifeCycle ID,FALSE,,none
+DynamicAttribute1,TelcoSharedaccdimBothRefdataAccountSpendingLimitYnFlagSession,long,,TRUE,,none
+DynamicAttribute2,TelcoIvrRefdataAffiliateSubscriberCSAIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute3,TelcoIvrRefdataCompletedTransferToCsrYnFlag,long,,TRUE,,none
+DynamicAttribute4,TelcoSharedaccdimBothRefdataLiabilityIndicatorSession,long,,TRUE,,none
+DynamicAttribute5,SharedSession_CalculatedRefData_Any2Any_Repeat_In_30_Days,long,,TRUE,,none
+DynamicAttribute6,SharedSession_CalculatedRefData_Any2Any_Repeat_In_48_Hours,long,,TRUE,,none
+DynamicAttribute7,SharedSession_CalculatedRefData_Any2Any_Repeat_In_7_Days,long,,TRUE,,none
+DynamicAttribute8,SharedSession_CalculatedRefData_Any2Same_Repeat_In_30_Days,long,,TRUE,,none
+DynamicAttribute9,SharedSession_CalculatedRefData_Any2Same_Repeat_In_48_Hours,long,,TRUE,,none
+DynamicAttribute10,SharedSession_CalculatedRefData_Any2Same_Repeat_In_7_Days,long,,TRUE,,none
+DynamicAttribute11,SharedSession_CalculatedRefData_Any2Voice_Repeat_In_30_Days,long,,TRUE,,none
+DynamicAttribute12,SharedSession_CalculatedRefData_Any2Voice_Repeat_In_48_Hours,long,,TRUE,,none
+DynamicAttribute13,SharedSession_CalculatedRefData_Any2Voice_Repeat_In_7_Days,long,,TRUE,,none
+DynamicAttribute14,"SharedSurvey_RefData_Survey_Sat_Score
+TelcoSurveyRefdataSurveySatScoreSession",long,,TRUE,,none
+DynamicAttribute15,"SharedSurvey_RefData_Survey_WTR_Score
+TelcoSurveyRefdataSurveyWtrScoreSession",long,,TRUE,,none
+DynamicAttribute16,TelcoSurveyRefdataSurveyTypeSession,long,,TRUE,,none
+DynamicAttribute17,Not in use,long,,TRUE,,none
+DynamicAttribute18,SharedChurn_RefData_Journey_Request_PIC_14_Failure_YN_Flag,long,,TRUE,,none
+DynamicAttribute19,IVR_fromVoice_RefData_Hold_Time_Bin,long,,TRUE,,none
+DynamicAttribute20,TelcoIvrRefdataCompletedTransactionYnFlag,long,,TRUE,,none
+DynamicAttribute21,TelcoIvrRefdataAslHotlineYnFlag,long,,TRUE,,none
+DynamicAttribute22,TelcoIvrRefdataBillableCallYnFlag,long,,TRUE,,none
+DynamicAttribute23,TelcoIvrRefdataExternalSourceIndicator,long,,TRUE,,none
+DynamicAttribute24,TelcoIvrRefdataHotlineFlag,long,,TRUE,,none
+DynamicAttribute25,TelcoIvrRefdataHotlineIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute26,TelcoIvrRefdataValidBanPtn,long,,TRUE,,none
+DynamicAttribute27,SharedChurn_RefData_Journey_Request_PIC_30_Failure_YN_Flag,long,,TRUE,,none
+DynamicAttribute28,"IVR_fromVoiceEvent_fromVoiceSession_RefData_IVR_Transfer_YN_Flag
+TelcoVoiceSessionRefdataIVRTransferYnFlag",long,,TRUE,,none
+DynamicAttribute29,SharedChurn_RefData_Journey_Effective_PIC_14_Failure_YN_Flag,long,,TRUE,,none
+DynamicAttribute30,SharedChurn_RefData_Journey_Effective_PIC_30_Failure_YN_Flag,long,,TRUE,,none
+DynamicAttribute31,Not in use,long,,TRUE,,none
+DynamicAttribute32,Not in use,long,,TRUE,,none
+DynamicAttribute33,Not in use,long,,TRUE,,none
+DynamicAttribute34,TelcoChurnRefdataPortOutCancelYnFlagSession,long,,TRUE,,none
+DynamicAttribute35,TelcoSharedallBothRefdataSelfServiceYnSession,long,,TRUE,,none
+DynamicAttribute36,TelcoSharedallBothRefdataSequencingTypeSession,long,,TRUE,,none
+DynamicAttribute37,SharedAll_Both_RefData_Survey_YN_Flag,long,,TRUE,,none
+DynamicAttribute38,SharedSession_RefData_Journey_NCP_Eligible_YN,long,,TRUE,,none
+DynamicAttribute39,"IVR_fromVoiceEvent_fromVoiceSession_RefData_Abandoned_YN_Flag
+TelcoVoiceSessionRefdataAbandonedYnFlag",long,,TRUE,,none
+DynamicAttribute40,"TelcoIvrRefdataAccountStatus
+TelcoSharedaccdimBothRefdataAccountStatusSession",long,,TRUE,,none
+DynamicAttribute41,Not in use,long,,TRUE,,none
+DynamicAttribute42,TelcoIvrRefdataAslLastActivity,long,,TRUE,,none
+DynamicAttribute43,TelcoIvrRefdataASLTFFlag,long,,TRUE,,none
+DynamicAttribute44,TelcoIvrRefdataAuthenticationTFFlag,long,,TRUE,,none
+DynamicAttribute45,TelcoIvrRefdataAutopayIndicatorYnFlag,long,,TRUE,,none
+DynamicAttribute46,TelcoIvrRefdataBanSpendingLimit,long,,TRUE,,none
+DynamicAttribute47,TelcoIvrRefdataBillingPastDueYnFlag,long,,TRUE,,none
+DynamicAttribute48,TelcoIvrRefdataCallEnvironment,long,,TRUE,,none
+DynamicAttribute49,TelcoIvrRefdataCollectionsStatusCode,long,,TRUE,,none
+DynamicAttribute50,TelcoIvrRefdataDeviceActivationDateIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute51,TelcoIvrRefdataFutureDatePaymentIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute52,TelcoIvrRefdataInstallmentBillingIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute53,TelcoIvrRefdataIsDelinquentTFFlag,long,,TRUE,,none
+DynamicAttribute54,TelcoIvrRefdataPastDueFlag,long,,TRUE,,none
+DynamicAttribute55,"TelcoIvrRefdataPaymentArrangementIndicatorTFFlag
+TelcoVoiceRefdataPaymentArrangementYnFlagSession",long,,TRUE,,none
+DynamicAttribute56,TelcoIvrRefdataShotLinersCode,long,,TRUE,,none
+DynamicAttribute57,TelcoIvrRefdataSplitBillCode,long,,TRUE,,none
+DynamicAttribute58,TelcoIvrRefdataSummaryBillIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute59,SharedSession_RefData_Journey_PIC_Eligible_YN,long,,TRUE,,none
+DynamicAttribute60,TelcoSharedtle0BothRefdataEcsfbCapabilitySession,long,,TRUE,,none
+DynamicAttribute61,TelcoSharedtle0BothRefdataHdVoiceCapableSession,long,,TRUE,,none
+DynamicAttribute62,TelcoIvrRefdataLanguage,long,,TRUE,,none
+DynamicAttribute63,Not in use,long,,TRUE,,none
+DynamicAttribute64,TelcoIvrRefdataPINIndicatorTFFlag,long,,TRUE,,none
+DynamicAttribute65,IVR_fromVoice_RefData_Short_Call_YN_Flag,long,,TRUE,,none
+DynamicAttribute66,"IVR_fromVoice_RefData_Organization
+TelcoVoiceRefdataOrganization",long,,TRUE,,none
+DynamicAttribute67,TelcoSharedtle0BothRefdataWifiCapableSession,long,,TRUE,,none
+DynamicAttribute68,TelcoSharedtq22BothRefdataAiraveCandidateStatusSession,long,,TRUE,,none
+DynamicAttribute69,TelcoIvrRefdataCompletedTransactions,long,,TRUE,,none
+DynamicAttribute70,"TelcoIvrRefdataAccountValue
+TelcoSharedaccdimBothRefdataAccountValueSession",long,,TRUE,,none
+DynamicAttribute71,SharedSession_CalculatedRefData_Any2Any_Next_Channel_ID,long,,TRUE,,none
+DynamicAttribute72,SharedSession_CalculatedRefData_Any2Any_Number_Days_To_Next_Contact,long,,TRUE,,none
+DynamicAttribute73,TelcoIvrRefdataIvrFirstAppId,long,,TRUE,,none
+DynamicAttribute74,TelcoIvrRefdataIvrLastAppId,long,,TRUE,,none
+DynamicAttribute75,SharedSession_CalculatedRefData_Any2Any_Number_Days_To_Previous_Contact,long,,TRUE,,none
+DynamicAttribute76,SharedSession_CalculatedRefData_Any2Any_Previous_Channel_ID,long,,TRUE,,none
+DynamicAttribute77,TelcoSharedtq22BothRefdataIncoundMouBinSession,long,,TRUE,,none
+DynamicAttribute78,SharedSession_CalculatedRefData_Any2Same_Number_Days_To_Next_Contact,long,,TRUE,,none
+DynamicAttribute79,SharedSession_CalculatedRefData_Any2Same_Number_Days_To_Previous_Contact,long,,TRUE,,none
+DynamicAttribute80,"IVR_fromVoice_RefData_Call_Center
+TelcoVoiceRefdataCallCenter",long,,TRUE,,none
+DynamicAttribute81,Not in use,long,,TRUE,,none
+DynamicAttribute82,Not in use,long,,TRUE,,none
+DynamicAttribute83,SharedSession_CalculatedRefData_Any2Voice_Number_Days_To_Next_Contact,long,,TRUE,,none
+DynamicAttribute84,SharedSession_CalculatedRefData_Any2Voice_Number_Days_To_Previous_Contact,long,,TRUE,,none
+DynamicAttribute85,Not in use,long,,TRUE,,none
+DynamicAttribute86,TelcoSharedtq22BothRefdataCdrReportYearMonthNumberSession,long,,TRUE,,none
+DynamicAttribute87,Not in use,long,,TRUE,,none
+DynamicAttribute88,TelcoSharedaccdimBothRefdataAccountTenureBinSession,long,,TRUE,,none
+DynamicAttribute89,TelcoSharedihsummaryBothRefdataTouchPointNameSession,long,,TRUE,,none
+DynamicAttribute90,IVR_fromIVREvent_RefData_Application_ID,long,,TRUE,,none
+DynamicAttribute91,IVR_fromIVREvent_RefData_Brand,long,,TRUE,,none
+DynamicAttribute92,TelcoSharedtmubBothRefdataAiraveQualityOfServicePctBinSession,long,,TRUE,,none
+DynamicAttribute93,TelcoSharedtmubBothRefdataRoamingQualityOfServicePctBinSession,long,,TRUE,,none
+DynamicAttribute94,TelcoSharedtmubBothRefdataTotalQualityOfServicePctBinSession,long,,TRUE,,none
+DynamicAttribute95,"IVR_fromVoice_RefData_LOB
+TelcoVoiceRefdataLob",long,,TRUE,,none
+DynamicAttribute96,"IVR_fromVoice_RefData_Vendor
+TelcoVoiceRefdataVendor",long,,TRUE,,none
+DynamicAttribute97,"IVR_fromVoice_RefData_Director
+TelcoVoiceRefdataDirector",long,,TRUE,,none
+DynamicAttribute98,IVR_fromVoice_RefData_Call_Disposition,long,,TRUE,,none
+DynamicAttribute99,IVR_fromVoice_RefData_Work_Time_Bin,long,,TRUE,,none
+DynamicAttribute100,TelcoSharedtq22BothRefdata3gDataSessionCountBinSession,long,,TRUE,,none
+DynamicAttribute101,TelcoSharedtq22BothRefdataAttemptedCallCountBinSession,long,,TRUE,,none
+DynamicAttribute102,"IVR_fromVoiceEvent_fromVoiceSession_RefData_IVR_Transfer_Count
+TelcoVoiceRefdataIVRTransferCount",long,,TRUE,,none
+DynamicAttribute103,"IVR_fromVoiceEvent_fromVoiceSession_RefData_Abandoned_Call_Leg
+TelcoVoiceRefdataAbandonedCallLeg",long,,TRUE,,none
+DynamicAttribute104,TelcoSharedtq22BothRefdataAttemptedCallsMouBinSession,long,,TRUE,,none
+DynamicAttribute105,TelcoSharedtq22BothRefdataBlockCallPercentageBinSession,long,,TRUE,,none
+DynamicAttribute106,TelcoSharedtq22BothRefdataBlockedCallCountBinSession,long,,TRUE,,none
+DynamicAttribute107,IVR_fromVoice_RefData_Skill_Group_Target_ID_Desc,long,,TRUE,,none
+DynamicAttribute108,IVR_fromVoice_RefData_IVR_Call_Order,long,,TRUE,,none
+DynamicAttribute109,"TelcoIvrRefdataCustValueScore
+TelcoVoiceRefdataCustomerValueSegmentSession",long,,TRUE,,none
+DynamicAttribute110,TelcoSharedtq22BothRefdataBlockedCallsMouBinSession,long,,TRUE,,none
+DynamicAttribute111,"TelcoIvrRefdataSubscriberTenure
+TelcoSharedsubdimBothRefdataSubscriberTenureBinSession",long,,TRUE,,none
+DynamicAttribute112,"TelcoIvrRefdataTimeToContractExpiration
+TelcoSharedsubdimBothRefdataTimeToContractExpirationBinSession",long,,TRUE,,none
+DynamicAttribute113,TelcoSharedaccdimBothRefdataAccountTypeSubtypeSession,long,,TRUE,,none
+DynamicAttribute114,TelcoSharedtq22BothRefdataDropCallPercentageBinSession,long,,TRUE,,none
+DynamicAttribute115,TelcoIvrRefdataBaseCallType,long,,TRUE,,none
+DynamicAttribute116,"TelcoIvrRefdataBillCycle
+TelcoSharedaccdimBothRefdataBillCycleSession",long,,TRUE,,none
+DynamicAttribute117,"TelcoIvrRefdataBillLanguageCode
+TelcoSharedaccdimBothRefdataBillLanguageCodeSession",long,,TRUE,,none
+DynamicAttribute118,"TelcoIvrRefdataChurnRiskScore
+TelcoVoiceRefdataChurnRiskIndicatorSession",long,,TRUE,,none
+DynamicAttribute119,"TelcoIvrRefdataCreditClass
+TelcoSharedaccdimBothRefdataCreditClassSession",long,,TRUE,,none
+DynamicAttribute120,TelcoIvrRefdataDebtAge,long,,TRUE,,none
+DynamicAttribute121,TelcoIvrRefdataExternalSourceCallReason,long,,TRUE,,none
+DynamicAttribute122,TelcoIvrRefdataIvrSocCodePricePlan,long,,TRUE,,none
+DynamicAttribute123,TelcoIvrRefdataMarketId,long,,TRUE,,none
+DynamicAttribute124,TelcoIvrRefdataStatusChangeReasonCode,long,,TRUE,,none
+DynamicAttribute125,TelcoIvrRefdataSubmarket,long,,TRUE,,none
+DynamicAttribute126,TelcoIvrRefdataSwapModelNumber,long,,TRUE,,none
+DynamicAttribute127,TelcoSharedtq22BothRefdataDroppedCallCountBinSession,long,,TRUE,,none
+DynamicAttribute128,TelcoSharedtq22BothRefdataDroppedCallsMouBinSession,long,,TRUE,,none
+DynamicAttribute129,TelcoSharedtq22BothRefdataEnhanced3gSessionCountBinSession,long,,TRUE,,none
+DynamicAttribute130,TelcoSharedtq22BothRefdataFailCallPercentageBinSession,long,,TRUE,,none
+DynamicAttribute131,TelcoSharedtq22BothRefdataLteSessionCountBinSession,long,,TRUE,,none
+DynamicAttribute132,TelcoSharedtq22BothRefdataRoamingCallCountBinSession,long,,TRUE,,none
+DynamicAttribute133,TelcoSharedtq22BothRefdataRoamingCallsMouBinSession,long,,TRUE,,none
+DynamicAttribute134,TelcoSharedtq22BothRefdataSuccessfulCallCountBinSession,long,,TRUE,,none
+DynamicAttribute135,TelcoSharedtq22BothRefdataSuccessfulCallMouBinSession,long,,TRUE,,none
+DynamicAttribute136,TelcoSharedtq22BothRefdataTextMessageCountBinSession,long,,TRUE,,none
+DynamicAttribute137,TelcoIvrRefdataLastCollectionActivityCode,long,,TRUE,,none
+DynamicAttribute138,TelcoSharedtq22BothRefdataTextMessageFailedCountBinSession,long,,TRUE,,none
+DynamicAttribute139,TelcoSharedtq22BothRefdataTotalBlocksAndDropsBinSession,long,,TRUE,,none
+DynamicAttribute140,"IVR_fromVoice_RefData_CSR_Tenure_Bin
+TelcoVoiceRefdataCsrTenureBin",long,,TRUE,,none
+DynamicAttribute141,IVR_fromVoice_RefData_Handle_Time_Bin,long,,TRUE,,none
+DynamicAttribute142,Not in use,long,,TRUE,,none
+DynamicAttribute143,IVR_fromVoice_RefData_Peripheral_CallType,long,,TRUE,,none
+DynamicAttribute144,IVR_fromVoice_RefData_Peripheral_ID,long,,TRUE,,none
+DynamicAttribute145,IVR_fromVoice_RefData_Talk_Time_Bin,long,,TRUE,,none
+DynamicAttribute146,"IVR_fromVoice_RefData_Unit_Manager
+TelcoVoiceRefdataUnitManager",long,,TRUE,,none
+DynamicAttribute147,Not in use,long,,TRUE,,none
+DynamicAttribute148,TelcoChurnRefdataPortOutDateSession,long,,TRUE,,none
+DynamicAttribute149,TelcoSharedtle0BothRefdataDeviceManufacturerSession,long,,TRUE,,none
+DynamicAttribute150,IVR_fromVoice_Duration,long,,TRUE,,none
+DynamicAttribute151,IVR_fromVoice_RefData_Call_Type_ID,long,,TRUE,,none
+DynamicAttribute152,TelcoSharedtle0BothRefdataDeviceMarketLaunchDateSession,long,,TRUE,,none
+DynamicAttribute153,TelcoSharedtle0BothRefdataDeviceOperatingSystemSession,long,,TRUE,,none
+DynamicAttribute154,TelcoSharedtle0BothRefdataDeviceQualitySession,long,,TRUE,,none
+DynamicAttribute155,TelcoSharedaccdimBothRefdataOwnerBrandCodeSession,long,,TRUE,,none
+DynamicAttribute156,TelcoSharedaccdimBothRefdataSubscribersActiveBinSession,long,,TRUE,,none
+DynamicAttribute157,TelcoSharedihdetailBothRefdataChannelDepartmentNameSession,long,,TRUE,,none
+DynamicAttribute158,"SharedSurvey_RefData_Dealer_ID
+TelcoSurveyRefdataDealerIdSession",long,,TRUE,,none
+DynamicAttribute159,Not in use,long,,TRUE,,none
+DynamicAttribute160,"SharedSurvey_RefData_Dealer_Name
+TelcoSurveyRefdataDealerNameSession",long,,TRUE,,none
+DynamicAttribute161,"SharedSurvey_RefData_Store_ID
+TelcoSurveyRefdataStoreIdSession",long,,TRUE,,none
+DynamicAttribute162,"SharedSurvey_RefData_Store_Number
+TelcoSurveyRefdataStoreNumberSession",long,,TRUE,,none
+DynamicAttribute163,"TelcoIvrRefdataItemDescription
+TelcoSharedsubdimBothRefdataSkuIdSession",long,,TRUE,,none
+DynamicAttribute164,"SharedSurvey_RefData_Survey_Category_1
+TelcoSurveyRefdataSurveyCategory1Session",long,,TRUE,,none
+DynamicAttribute165,"SharedSurvey_RefData_Survey_Category_2
+TelcoSurveyRefdataSurveyCategory2Session",long,,TRUE,,none
+DynamicAttribute166,"SharedSurvey_RefData_Survey_Rotating_Question_Code
+TelcoSurveyRefdataSurveyRotatingQuestionCodeSession",long,,TRUE,,none
+DynamicAttribute167,IVR_fromVoice_Hold_Time,int,,TRUE,,none
+DynamicAttribute168,Not in use,int,,TRUE,,none
+DynamicAttribute169,"SharedSurvey_RefData_Survey_Rotating_Question_Score
+TelcoSurveyRefdataSurveyRotatingQuestionScoreSession",long,,TRUE,,none
+DynamicAttribute170,"TelcoIvrRefdataPricePlanCode
+TelcoSharedsubdimBothRefdataPlanTypeSession",long,,TRUE,,none
+DynamicAttribute171,TelcoIvrRefdataConsolidatedCdc,long,,TRUE,,none
+DynamicAttribute172,"TelcoIvrRefdataHourOfDayCstSession
+TelcoVoiceRefdataHourOfDayCstSession",long,,TRUE,,none
+DynamicAttribute173,TelcoSharedtmubBothRefdataQosYearMonthNumberSession,long,,TRUE,,none
+DynamicAttribute174,"SharedSurvey_RefData_Survey_WTR_Likely
+TelcoSurveyRefdataSurveyWtrLikelySession",long,,TRUE,,none
+DynamicAttribute175,"SharedSurvey_RefData_SPS_Score
+TelcoSurveyRefdataSurveySpsScoreSession",long,,TRUE,,none
+DynamicAttribute176,IVR_fromVoice_Local_Queue_Time,int,,TRUE,,none
+DynamicAttribute177,IVR_fromVoice_RefData_Base_Skill_Target_ID,long,,TRUE,,none
+DynamicAttribute178,TelcoIvrRefdataLastSelfService,long,,TRUE,,none
+DynamicAttribute179,TelcoIvrRefdataLastAccountMenuOption,long,,TRUE,,none
+DynamicAttribute180,TelcoSharedtle1BothRefdataMarketAreaNameSession,long,,TRUE,,none
+DynamicAttribute181,TelcoSharedtle1BothRefdataMarketGeographyAreaCodeSession,long,,TRUE,,none
+DynamicAttribute182,TelcoSharedtle1BothRefdataMarketNameSession,long,,TRUE,,none
+DynamicAttribute183,TelcoSharedtle1BothRefdataMarketRegionSession,long,,TRUE,,none
+DynamicAttribute184,"IVR_fromVoice_RefData_Call_Functional_Area
+TelcoVoiceRefdataCallFunctionalArea",long,,TRUE,,none
+DynamicAttribute185,IVR_fromVoice_RefData_App_Split,long,,TRUE,,none
+DynamicAttribute186,SharedSession_Calculated_Any2Any_Next_Contact_Reason_List,long,,TRUE,,none
+DynamicAttribute187,SharedSession_Calculated_Any2Any_Previous_Contact_Reason_List,long,,TRUE,,none
+DynamicAttribute188,IVR_fromVoice_RefData_Service_Skill_Target,long,,TRUE,,none
+DynamicAttribute189,"IVR_fromVoice_RefData_CSR_Functional_Area
+TelcoVoiceRefdataCsrFunctionalArea",long,,TRUE,,none
+DynamicAttribute190,IVR_fromVoice_Delay_Time,int,,TRUE,,none
+DynamicAttribute191,"IVR_fromVoice_RefData_Manager
+TelcoVoiceRefdataManager",long,,TRUE,,none
+DynamicAttribute192,SharedSession_Calculated_Any2Same_Next_Contact_Reason_List,long,,TRUE,,none
+DynamicAttribute193,SharedSession_Calculated_Any2Same_Previous_Contact_Reason_List,long,,TRUE,,none
+DynamicAttribute194,SharedSession_Calculated_Any2Voice_Next_Contact_Reason_List,long,,TRUE,,none
+DynamicAttribute195,SharedSession_Calculated_Any2Voice_Previous_Contact_Reason_List,long,,TRUE,,none
+DynamicAttribute196,SharedSession_Calculated_Any2Same_Next_Interaction_ID,long,,TRUE,,none
+DynamicAttribute197,SharedSession_Calculated_Any2Same_Previous_Interaction_ID,long,,TRUE,,none
+DynamicAttribute198,SharedSession_Calculated_Any2Voice_Next_Interaction_ID,long,,TRUE,,none
+DynamicAttribute199,Not in use,long,,TRUE,,none
+DynamicAttribute200,IVR_Elapsed_IVR_Time,int,,TRUE,,none
+DynamicAttribute201,IVR_IVR_Active_Subscriber_Count,int,,TRUE,,none
+DynamicAttribute202,SharedSession_Calculated_Any2Any_Next_Interaction_ID,long,,TRUE,,none
+DynamicAttribute203,SharedSession_Calculated_Any2Any_Previous_Interaction_ID,long,,TRUE,,none
+DynamicAttribute204,SharedSession_Calculated_Any2Voice_Previous_Interaction_ID,long,,TRUE,,none
+DynamicAttribute205,Not in use,long,,TRUE,,none
+DynamicAttribute206,TelcoSharedtle0BothRefdataDeviceEquipmentCategorySession,long,,TRUE,,none
+DynamicAttribute207,Not in use,long,,TRUE,,none
+DynamicAttribute208,Not in use,long,,TRUE,,none
+DynamicAttribute209,TelcoSharedtle0BothRefdataDeviceModelTypeSession,long,,TRUE,,none
+DynamicAttribute210,Not in use,long,,TRUE,,none
+DynamicAttribute211,Not in use,long,,TRUE,,none
+DynamicAttribute212,TelcoSharedtle0BothRefdataDeviceTechnologyDescriptionSession,long,,TRUE,,none
+DynamicAttribute213,TelcoSharedtle0BothRefdataDeviceTypeNameSession,long,,TRUE,,none
+DynamicAttribute214,TelcoSharedtle0BothRefdataDeviceVoiceDataSession,long,,TRUE,,none
+DynamicAttribute215,TelcoSharedtmubBothRefdataQosMarketNameSession,long,,TRUE,,none
+DynamicAttribute216,Not in use,long,,TRUE,,none
+DynamicAttribute217,Not in use,long,,TRUE,,none
+DynamicAttribute218,Not in use,long,,TRUE,,none
+DynamicAttribute219,Not in use,long,,TRUE,,none
+DynamicAttribute220,"IVR_fromVoice_RefData_Team_Lead
+TelcoVoiceRefdataTeamLead",long,,TRUE,,none
+DynamicAttribute221,Not in use,float,,TRUE,,none
+DynamicAttribute222,Not in use,float,,TRUE,,none
+DynamicAttribute223,Not in use,float,,TRUE,,none
+DynamicAttribute224,Not in use,float,,TRUE,,none
+DynamicAttribute225,Not in use,float,,TRUE,,none
+DynamicAttribute226,SharedTQ22_Both_3G_Data_Attempts_kb_of_Use,float,,TRUE,,none
+DynamicAttribute227,SharedTQ22_Both_Enhanced_3G_Attempts_kb_of_Use,float,,TRUE,,none
+DynamicAttribute228,SharedTQ22_Both_LTE_Attempts_kb_of_Use,float,,TRUE,,none
+DynamicAttribute229,Not in use,float,,TRUE,,none
+DynamicAttribute230,Not in use,float,,TRUE,,none
+DynamicAttribute231,IVR_Current_Balance,float,,TRUE,,none
+DynamicAttribute232,IVR_Payment_Amount,float,,TRUE,,none
+DynamicAttribute233,IVR_Total_Due,float,,TRUE,,none
+DynamicAttribute234,IVR_Aging_Balance_1,float,,TRUE,,none
+DynamicAttribute235,IVR_Aging_Balance_2,float,,TRUE,,none
+DynamicAttribute236,IVR_Aging_Balance_3,float,,TRUE,,none
+DynamicAttribute237,IVR_Aging_Balance_4,float,,TRUE,,none
+DynamicAttribute238,IVR_Unbilled_Adjustments,float,,TRUE,,none
+DynamicAttribute239,IVR_Unbilled_Charges,float,,TRUE,,none
+DynamicAttribute240,IVR_Unbilled_Usage,float,,TRUE,,none
+DynamicAttribute241,IVR_Call_Identifier,string,,TRUE,,none
+DynamicAttribute242,"IVR_Subscriber_ID
+SharedAll_Both_Subscriber_ID",string,,TRUE,,none
+DynamicAttribute243,Not in use,string,,TRUE,,none
+DynamicAttribute244,"IVR_fromVoice_Call_ID
+VOICE_Call_ID",string,,TRUE,,none
+DynamicAttribute245,IVR_fromVoice_ICM_Agent_ID,string,,TRUE,,none
+DynamicAttribute246,IVR_fromVoice_ICM_Call_Reason_v8,string,,TRUE,,none
+DynamicAttribute247,IVR_fromVoice_RCD_Call_ID_Variable_1,string,,TRUE,,none
+DynamicAttribute248,IVR_fromVoice_Peripheral_Number,string,,TRUE,,none
+DynamicAttribute249,"IVR_fromVoice_CSR
+VOICE_CSR",string,,TRUE,0,none
+DynamicAttribute250,SharedAll_Both_Caller_BAN,string,,TRUE,,HASH
+DynamicAttribute251,SharedAll_Both_Caller_PTN,string,,TRUE,,HASH
+DynamicAttribute252,SharedAll_Both_Transaction_BAN,string,,TRUE,,HASH
+DynamicAttribute253,SharedAll_Both_Transaction_PTN,string,,TRUE,,HASH
+DynamicAttribute254,Not in use,string,,TRUE,,none
+DynamicAttribute255,IVR_Dialed_Number_String,string,,TRUE,,HASH
+DynamicAttribute256,Not in use,string,,TRUE,,none
+DynamicAttribute257,IVR_fromVoice_Digits_Dialed,string,,TRUE,,none
+DynamicAttribute258,Not in use,string,,TRUE,,none
+DynamicAttribute259,SharedIHSummary_Both_Interaction_User_ID,string,,TRUE,,none
+DynamicAttribute260,"SharedSurvey_Survey_ID
+SURVEY_Survey_ID",string,,TRUE,,none
+DynamicAttribute261,IVR_fromVoice_RDC_Variable_9,string,,TRUE,,none
+DynamicAttribute262,Master_BAN,string,,TRUE,,HASH
+DynamicAttribute263,Master_PTN,string,,TRUE,,HASH
+DynamicAttribute264,"SharedSurvey_Primitive_Survey_Category_1
+TelcoSurveyPrimitiveSurveyCategory1Session",string,,TRUE,,none
+DynamicAttribute265,"SharedSurvey_Primitive_Survey_Category_2
+TelcoSurveyPrimitiveSurveyCategory2Session",string,,TRUE,,none
+DynamicAttribute266,Not in use,string,,TRUE,,none
+DynamicAttribute267,SharedIHSummary_Both_Interaction_Group_ID,string,,TRUE,,none
+DynamicAttribute268,Not in use,string,,TRUE,,none
+DynamicAttribute269,IVR_fromVoice_RCD_Target_Type,string,,TRUE,,none
+DynamicAttribute270,IVR_fromVoice_RCV_Exp_Call_Variable_ID,string,,TRUE,,none
+DynamicAttribute271,"IVR_ANI
+VOICE_ANI",string,,TRUE,,none
+DynamicAttribute272,IVR_fromVoice_ECCValue,string,,TRUE,,none
+DynamicAttribute273,IVR_fromVoice_TCD_Recovery_Key,string,,TRUE,,none
+DynamicAttribute274,IVR_fromVoice_TCD_Variable_9,string,,TRUE,,none
+DynamicAttribute275,SharedTLE1_Both_NPA_NXX_Number,string,,TRUE,,none
+DynamicAttribute276,SharedAll_Calculated_fromSURVEY_Verbatim_Notes,string,,TRUE,,none
+DynamicAttribute277,Not in use,string,,TRUE,,none
+DynamicAttribute278,Not in use,string,,TRUE,,none
+DynamicAttribute279,SharedAll_Both_Verbose_Notes,string,,TRUE,,FIXED
+DynamicAttribute280,Not in use,string,,TRUE,,none
+DynamicAttribute281,Not in use,date,,TRUE,,none
+DynamicAttribute282,IVR_Start_Date,date,,TRUE,,none
+DynamicAttribute283,IVR_Subscriber_Activation_Date,date,,TRUE,,none
+DynamicAttribute284,IVR_Payment_Arrangement_Posted_Date,date,,TRUE,,none
+DynamicAttribute285,Not in use,date,,TRUE,,none
+DynamicAttribute286,IVR_Collection_End_Date,date,,TRUE,,none
+DynamicAttribute287,IVR_Collections_Start_Date,date,,TRUE,,none
+DynamicAttribute288,"IVR_Commitment_End_Date
+SharedSubDim_Both_Commitment_End_Date",date,,TRUE,,none
+DynamicAttribute289,"IVR_Commitment_Start_Date
+SharedSubDim_Both_Commitment_Start_Date",date,,TRUE,,none
+DynamicAttribute290,Not in use,date,,TRUE,,none
+DynamicAttribute291,Not in use,date,,TRUE,,none
+DynamicAttribute292,Not in use,date,,TRUE,,none
+DynamicAttribute293,,date,,TRUE,,none
+DynamicAttribute294,Not in use,date,,TRUE,,none
+DynamicAttribute295,IVR_IVR_Last_Activity_Date,date,,TRUE,,none
+DynamicAttribute296,IVR_Last_Bill_Due_Date,date,,TRUE,,none
+DynamicAttribute297,IVR_Last_Payment_Date,date,,TRUE,,none
+DynamicAttribute298,,date,,TRUE,,none
+DynamicAttribute299,"IVR_Device_Activation_Date
+SharedSubDim_Both_Device_Activation_Date",date,,TRUE,,none
+DynamicAttribute300,IVR_Future_Dated_Payment_Date,date,,TRUE,,none
